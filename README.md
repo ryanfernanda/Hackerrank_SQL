@@ -10,4 +10,4 @@ There are six subdomains included in this repository that are separated on each 
 - Advanced Join
 - Alternative Queries
 
-It is possible that there are still some unanswered questions in this repository, but we will try our best to answer as many questions as possible. Please use it responsibly, not just to get a certain status, because certain badges are useless if you don't deserve them.
+It is possible that there are still some unanswered questions in this repository, but we will try our best to answer as many questions as possible. Please use it responsibly, not just to get a certain status, because certain badges are not meaningful if you don't deserve them.
