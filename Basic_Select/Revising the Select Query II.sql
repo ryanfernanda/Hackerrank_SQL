@@ -9,7 +9,7 @@ The CITY table is described as follows:
 - POPULATION : NUMBER
 
 ANSWER : 
-* Using MySQL
+-- Using MySQL
 */
 
 SELECT NAME
