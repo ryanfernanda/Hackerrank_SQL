@@ -15,7 +15,7 @@ ANSWER :
 
 SELECT  DISTINCT CITY
 FROM STATION
-WHERE SUBSTRING(CITY,-1,1) NOT IN ('A','E','I','O','U','a','e','i','u','o');
+WHERE SUBSTRING(CITY,-1,1) NOT IN ('A','E','I','O','U','a','e','i','o','u');
 
 -- We can also use the Regular Expression for the shorter query :
 
