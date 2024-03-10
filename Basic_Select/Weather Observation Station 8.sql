@@ -23,4 +23,4 @@ WHERE SUBSTRING(CITY,1,1) IN ('A','E','I','O','U','a','e','i','o','u')
 
 SELECT DISTINCT CITY
 FROM STATION
-WHERE CITY REGEXP "^[AIUEOaiueo].*[AIUEOaiueo]$";
+WHERE CITY REGEXP "^[AEIOUaeiou].*[Aeiouaeiou]$";
