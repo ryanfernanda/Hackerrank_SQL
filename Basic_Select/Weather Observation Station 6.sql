@@ -25,4 +25,9 @@ WHERE CITY LIKE 'A%'
     OR CITY LIKE 'u%'
     OR CITY LIKE 'e%'
     OR CITY LIKE 'o%';
-    
+
+-- We can also use the Regular Expression for the shorter query :
+
+SELECT DISTINCT CITY
+FROM STATION
+WHERE CITY REGEXP "^[AIUEOaiueo]";
