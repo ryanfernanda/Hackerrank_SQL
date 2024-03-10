@@ -15,16 +15,7 @@ ANSWER :
 
 SELECT DISTINCT CITY
 FROM STATION
-WHERE CITY LIKE '%A' 
-    OR CITY LIKE '%I'
-    OR CITY LIKE '%U'
-    OR CITY LIKE '%E'
-    OR CITY LIKE '%O'
-    OR CITY LIKE '%a'
-    OR CITY LIKE '%i'
-    OR CITY LIKE '%u'
-    OR CITY LIKE '%e'
-    OR CITY LIKE '%o';
+WHERE SUBSTRING(CITY,-1,1) IN ('A','E','I','O','U','a','e','i','o','u');
 
 -- We can also use the Regular Expression for the shorter query :
 
