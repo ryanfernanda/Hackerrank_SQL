@@ -5,9 +5,5 @@ This repository was created as a learning source to answer some SQL challenge qu
 There are six subdomains included in this repository that are separated on each folders:
 - Basic Select : https://github.com/ryanfernanda/Hackerrank_SQL_Challenges/tree/main/Basic_Select
 - Advanced Select : https://github.com/ryanfernanda/Hackerrank_SQL_Challenges/tree/main/Advanced_Select
-- Aggregation
-- Basic Join
-- Advanced Join
-- Alternative Queries
 
 There are so many challenge questions that are not included in this repository, but we will try our best to answer as many questions as possible. Please use this platform responsibly, not just to get certain badges without getting any insights from the questions.
